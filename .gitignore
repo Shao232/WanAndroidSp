@@ -9,3 +9,9 @@
 /build
 /captures
 .externalNativeBuild
+/app/build
+/app/.gitignore
+/home/build
+/home/.gitignore
+/wPublicLibs/build
+/wPublicLibs/.gitignore
